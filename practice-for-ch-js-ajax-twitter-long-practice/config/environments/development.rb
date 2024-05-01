@@ -62,4 +62,6 @@ Rails.application.configure do
 
   # require "byebug/core"
   # Byebug.start_server("localhost", 3001)
+  require "byebug/core"
+  Byebug.start_server("localhost", 3001)
 end
