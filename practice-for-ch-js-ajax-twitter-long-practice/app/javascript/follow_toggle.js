@@ -33,6 +33,7 @@ export default class FollowToggle {
   render() {
     switch (this.followState) {
       // Your code here
+      
     }
   }
 
